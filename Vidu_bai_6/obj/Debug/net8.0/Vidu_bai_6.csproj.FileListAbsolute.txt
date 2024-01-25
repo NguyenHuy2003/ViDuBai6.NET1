@@ -1,0 +1,14 @@
+D:\.net1\Vidu_bai_6\Vidu_bai_6\bin\Debug\net8.0\Vidu_bai_6.exe
+D:\.net1\Vidu_bai_6\Vidu_bai_6\bin\Debug\net8.0\Vidu_bai_6.deps.json
+D:\.net1\Vidu_bai_6\Vidu_bai_6\bin\Debug\net8.0\Vidu_bai_6.runtimeconfig.json
+D:\.net1\Vidu_bai_6\Vidu_bai_6\bin\Debug\net8.0\Vidu_bai_6.dll
+D:\.net1\Vidu_bai_6\Vidu_bai_6\bin\Debug\net8.0\Vidu_bai_6.pdb
+D:\.net1\Vidu_bai_6\Vidu_bai_6\obj\Debug\net8.0\Vidu_bai_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net1\Vidu_bai_6\Vidu_bai_6\obj\Debug\net8.0\Vidu_bai_6.AssemblyInfoInputs.cache
+D:\.net1\Vidu_bai_6\Vidu_bai_6\obj\Debug\net8.0\Vidu_bai_6.AssemblyInfo.cs
+D:\.net1\Vidu_bai_6\Vidu_bai_6\obj\Debug\net8.0\Vidu_bai_6.csproj.CoreCompileInputs.cache
+D:\.net1\Vidu_bai_6\Vidu_bai_6\obj\Debug\net8.0\Vidu_bai_6.dll
+D:\.net1\Vidu_bai_6\Vidu_bai_6\obj\Debug\net8.0\refint\Vidu_bai_6.dll
+D:\.net1\Vidu_bai_6\Vidu_bai_6\obj\Debug\net8.0\Vidu_bai_6.pdb
+D:\.net1\Vidu_bai_6\Vidu_bai_6\obj\Debug\net8.0\Vidu_bai_6.genruntimeconfig.cache
+D:\.net1\Vidu_bai_6\Vidu_bai_6\obj\Debug\net8.0\ref\Vidu_bai_6.dll
